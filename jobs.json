@@ -1,4 +1,41 @@
-[
+{
+  "id": "rsmssb-patwari-recruitment-2026",
+  "category": "Latest Job",
+  "region": "Rajasthan",
+  "totalPosts": "1963",
+  "title": {
+    "en": "RSMSSB Patwari Direct Recruitment 2026",
+    "hi": "RSMSSB पटवारी सीधी भर्ती 2026"
+  },
+  "organization": {
+    "en": "Rajasthan Staff Selection Board (RSSB)",
+    "hi": "राजस्थान कर्मचारी चयन बोर्ड (RSSB)"
+  },
+  "qualification": {
+    "en": "Bachelor's Degree with RSCIT/O-Level/COPA Computer Certificate",
+    "hi": "स्नातक डिग्री के साथ RSCIT/O-Level/COPA कंप्यूटर सर्टिफिकेट"
+  },
+  "dates": {
+    "startDate": "25-11-2026",
+    "lastDate": "25-12-2026",
+    "examDate": "February 2027"
+  },
+  "fee": {
+    "general": "600",
+    "reserved": "400"
+  },
+  "ageLimit": {
+    "min": "18",
+    "max": "40",
+    "relaxation": "As per Rajasthan Government Rules"
+  },
+  "summary": {
+    "en": "RSMSSB has announced 1,963 vacancies for the post of Patwari. Eligible graduates with a valid computer certificate and knowledge of Rajasthani culture can apply online starting from November 25.",
+    "hi": "राजस्थान कर्मचारी चयन बोर्ड ने पटवारी के 1,963 रिक्त पदों पर भर्ती की घोषणा की है। कंप्यूटर सर्टिफिकेट वाले स्नातक उम्मीदवार 25 नवंबर से आधिकारिक पोर्टल पर आवेदन कर सकते हैं।"
+  },
+  "officialLink": "https://rssb.rajasthan.gov.in/advertisements",
+  "updatedAt": "2026-11-14"
+}[
   {
     "id": "rpsc-ras-2026",
     "category": "latest-job",
