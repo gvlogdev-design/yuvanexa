@@ -1,47 +1,52 @@
-{
-  "id": "rsmssb-patwari-recruitment-2026",
-  "category": "Latest Job",
-  "region": "Rajasthan",
-  "totalPosts": "1963",
-  "title": {
-    "en": "RSMSSB Patwari Direct Recruitment 2026",
-    "hi": "RSMSSB पटवारी सीधी भर्ती 2026"
-  },
-  "organization": {
-    "en": "Rajasthan Staff Selection Board (RSSB)",
-    "hi": "राजस्थान कर्मचारी चयन बोर्ड (RSSB)"
-  },
-  "qualification": {
-    "en": "Bachelor's Degree with RSCIT/O-Level/COPA Computer Certificate",
-    "hi": "स्नातक डिग्री के साथ RSCIT/O-Level/COPA कंप्यूटर सर्टिफिकेट"
-  },
-  "dates": {
-    "startDate": "25-11-2026",
-    "lastDate": "25-12-2026",
-    "examDate": "February 2027"
-  },
-  "fee": {
-    "general": "600",
-    "reserved": "400"
-  },
-  "ageLimit": {
-    "min": "18",
-    "max": "40",
-    "relaxation": "As per Rajasthan Government Rules"
-  },
-  "summary": {
-    "en": "RSMSSB has announced 1,963 vacancies for the post of Patwari. Eligible graduates with a valid computer certificate and knowledge of Rajasthani culture can apply online starting from November 25.",
-    "hi": "राजस्थान कर्मचारी चयन बोर्ड ने पटवारी के 1,963 रिक्त पदों पर भर्ती की घोषणा की है। कंप्यूटर सर्टिफिकेट वाले स्नातक उम्मीदवार 25 नवंबर से आधिकारिक पोर्टल पर आवेदन कर सकते हैं।"
-  },
-  "officialLink": "https://rssb.rajasthan.gov.in/advertisements",
-  "updatedAt": "2026-11-14"
-}[
+[
   {
-    "id": "rpsc-ras-2026",
+    "id": "rsmssb-patwari-2026",
     "category": "latest-job",
     "badge": "NEW",
     "postDate": "2026-11-14",
-    "lastDate": "2026-12-15",
+    "lastDate": "25-12-2026",
+    "organization": {
+      "en": "Rajasthan Staff Selection Board (RSSB)",
+      "hi": "राजस्थान कर्मचारी चयन बोर्ड (RSSB)"
+    },
+    "title": {
+      "en": "RSMSSB Patwari Direct Recruitment 2026 Online Form",
+      "hi": "RSMSSB पटवारी सीधी भर्ती 2026 ऑनलाइन फॉर्म"
+    },
+    "summary": {
+      "en": "RSMSSB has announced 1,963 vacancies for the post of Patwari. Eligible graduates with a valid computer certificate can apply online starting from November 25.",
+      "hi": "RSMSSB ने पटवारी के 1,963 पदों पर भर्ती की घोषणा की है। मान्य कंप्यूटर सर्टिफिकेट के साथ योग्य स्नातक उम्मीदवार 25 नवंबर से ऑनलाइन आवेदन कर सकते हैं।"
+    },
+    "totalPosts": "1,963 Posts",
+    "qualification": {
+      "en": "Bachelor's Degree with RSCIT / O-Level / COPA Computer Certificate.",
+      "hi": "स्नातक डिग्री के साथ RSCIT / O-Level / COPA कंप्यूटर सर्टिफिकेट।"
+    },
+    "ageLimit": {
+      "en": "18 to 40 Years (Age relaxation as per Rajasthan Govt rules)",
+      "hi": "18 से 40 वर्ष (राजस्थान सरकार के नियमों के अनुसार आयु में छूट)"
+    },
+    "applicationFee": {
+      "en": "Gen / OBC (CL): ₹600 | SC / ST / Female / OBC (NCL): ₹400",
+      "hi": "सामान्य / ओबीसी (CL): ₹600 | SC / ST / महिला / ओबीसी (NCL): ₹400"
+    },
+    "importantDates": [
+      { "label": "Application Start", "value": "25-11-2026" },
+      { "label": "Last Date to Apply", "value": "25-12-2026" },
+      { "label": "Exam Date", "value": "February 2027" }
+    ],
+    "links": {
+      "apply": "https://rsmssb.rajasthan.gov.in",
+      "notification": "https://rsmssb.rajasthan.gov.in",
+      "official": "https://rsmssb.rajasthan.gov.in"
+    }
+  },
+  {
+    "id": "rpsc-ras-2026",
+    "category": "latest-job",
+    "badge": "HOT",
+    "postDate": "2026-11-14",
+    "lastDate": "15-12-2026",
     "organization": {
       "en": "Rajasthan Public Service Commission (RPSC)",
       "hi": "राजस्थान लोक सेवा आयोग (RPSC)"
@@ -51,13 +56,13 @@
       "hi": "RPSC आरएएस / आरटीएस संयुक्त प्रतियोगी परीक्षा 2026 ऑनलाइन फॉर्म"
     },
     "summary": {
-      "en": "RPSC has invited online applications for 950+ State and Subordinate Services posts. Graduate candidates can apply online.",
-      "hi": "RPSC ने 950+ राज्य और अधीनस्थ सेवा पदों के लिए ऑनलाइन आवेदन आमंत्रित किए हैं। स्नातक (Graduate) उम्मीदवार ऑनलाइन आवेदन कर सकते हैं।"
+      "en": "RPSC has invited online applications for 954 State and Subordinate Services posts. Graduate candidates can apply online.",
+      "hi": "RPSC ने 954 राज्य और अधीनस्थ सेवा पदों के लिए ऑनलाइन आवेदन आमंत्रित किए हैं। स्नातक उम्मीदवार ऑनलाइन आवेदन कर सकते हैं।"
     },
     "totalPosts": "954 Posts",
     "qualification": {
       "en": "Bachelor's Degree in any stream from a recognized University.",
-      "hi": "मान्यता प्राप्त विश्वविद्यालय से किसी भी विषय में स्नातक (Graduation) डिग्री।"
+      "hi": "मान्यता प्राप्त विश्वविद्यालय से किसी भी विषय में स्नातक डिग्री।"
     },
     "ageLimit": {
       "en": "21 to 40 Years (Age relaxation as per Rajasthan Govt rules)",
@@ -79,53 +84,11 @@
     }
   },
   {
-    "id": "ssc-gd-constable-2026",
-    "category": "latest-job",
-    "badge": "HOT",
-    "postDate": "2026-11-12",
-    "lastDate": "2026-12-20",
-    "organization": {
-      "en": "Staff Selection Commission (SSC)",
-      "hi": "कर्मचारी चयन आयोग (SSC)"
-    },
-    "title": {
-      "en": "SSC GD Constable Recruitment 2026 Online Form (39,481 Posts)",
-      "hi": "SSC जीडी कांस्टेबल भर्ती 2026 ऑनलाइन फॉर्म (39,481 पद)"
-    },
-    "summary": {
-      "en": "SSC released notification for Constable (GD) in CAPFs, NIA, SSF, and Rifleman (GD) in Assam Rifles.",
-      "hi": "SSC ने CAPFs, NIA, SSF में कांस्टेबल (GD) और असम राइफल्स में राइफलमैन (GD) पदों पर भर्ती के लिए नोटिफिकेशन जारी किया है।"
-    },
-    "totalPosts": "39,481 Posts",
-    "qualification": {
-      "en": "Class 10th (Matriculation) Passed from any recognized Board in India.",
-      "hi": "भारत के किसी भी मान्यता प्राप्त बोर्ड से 10वीं (मैट्रिक) पास।"
-    },
-    "ageLimit": {
-      "en": "18 to 23 Years",
-      "hi": "18 से 23 वर्ष"
-    },
-    "applicationFee": {
-      "en": "Gen / OBC / EWS: ₹100 | SC / ST / Female: ₹0 (Exempted)",
-      "hi": "सामान्य / ओबीसी / EWS: ₹100 | SC / ST / महिला: ₹0 (निःशुल्क)"
-    },
-    "importantDates": [
-      { "label": "Application Begin", "value": "12 Nov 2026" },
-      { "label": "Last Date for Apply Online", "value": "20 Dec 2026" },
-      { "label": "CBT Exam Date", "value": "Feb - March 2027" }
-    ],
-    "links": {
-      "apply": "https://ssc.gov.in/",
-      "notification": "https://ssc.gov.in/",
-      "official": "https://ssc.gov.in/"
-    }
-  },
-  {
     "id": "rajasthan-cet-admit-card-2026",
     "category": "admit-card",
     "badge": "OUT",
     "postDate": "2026-11-10",
-    "lastDate": "2026-11-28",
+    "lastDate": "28-11-2026",
     "organization": {
       "en": "Rajasthan Staff Selection Board (RSSB)",
       "hi": "राजस्थान कर्मचारी चयन बोर्ड (RSSB)"
@@ -166,7 +129,7 @@
     "category": "result",
     "badge": "RESULT",
     "postDate": "2026-11-11",
-    "lastDate": "2026-11-30",
+    "lastDate": "30-11-2026",
     "organization": {
       "en": "Institute of Banking Personnel Selection (IBPS)",
       "hi": "बैंकिंग कार्मिक चयन संस्थान (IBPS)"
@@ -177,7 +140,7 @@
     },
     "summary": {
       "en": "IBPS has declared the Prelims exam result for Probationary Officers. Check your qualifying status now.",
-      "hi": "IBPS ने प्रोबेशनरी ऑफिसर (PO) प्रारंभिक परीक्षा का परिणाम घोषित कर दिया है। अभी अपना स्टेटस चेक करें।"
+      "hi": "IBPS ने प्रोबेशनरी ऑफिसर प्रारंभिक परीक्षा का परिणाम घोषित कर दिया है। अभी अपना स्टेटस चेक करें।"
     },
     "totalPosts": "4,455 Posts",
     "qualification": {
@@ -207,7 +170,7 @@
     "category": "scholarship",
     "badge": "SCHOLARSHIP",
     "postDate": "2026-11-08",
-    "lastDate": "2026-12-31",
+    "lastDate": "31-12-2026",
     "organization": {
       "en": "National Scholarship Portal (Govt. of India)",
       "hi": "राष्ट्रीय छात्रवृत्ति पोर्टल (भारत सरकार)"
